@@ -1,6 +1,43 @@
 #pic {
-    max-width:300px;
+    max-width:500px;
     max-height:500px;
 }
 
+#header{
+    text-align:center;
+    padding:20px;
+    background:#FFB6C1;
+}
 
+#lead {
+    max-width: 400px;
+    height: 400px;
+}
+
+#input-group {
+  font-size: 2px;  
+}
+
+#mood {
+    font-size:20px;
+    color:Purple;
+    background:turquoise;
+}
+
+#go {
+    font-size:20px;
+    color:turquoise;
+    background: blue;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-image: url("http://gifdanceparty.giphy.com/dancers/pumpgirl.gif");
+    color: green; width:3px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: blue ;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
